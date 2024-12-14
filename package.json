@@ -1,14 +1,14 @@
 {
-  "name": "janalytics-react-native",
+  "name": "react-native-tools-janalytics",
   "description": "React Native JAnalytics component for Android and iOS",
-  "homepage":"https://github.com/jpush/janalytics-react-native",
+  "homepage":"https://github.com/jeff-cc/react-native-tools-janalytics",
   "main": "index.js",
   "license": "ISC",
   "author": "wicked.tc130",
   "version": "1.4.6",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jpush/janalytics-react-native"
+    "url": "https://github.com/jeff-cc/react-native-tools-janalytics"
   },
   "keywords": [
     "react-native",
@@ -16,6 +16,6 @@
   ],
   "peerDependencies": {
     "jcore-react-native": ">= 1.5.0",
-    "react-native": ">= 0.50"
+    "react-native": ">= 0.76.5"
   }
 }
